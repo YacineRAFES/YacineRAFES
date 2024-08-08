@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **On my Linkedin**
 
-- ⚡ Fun fact **I loves memes**
+- ⚡ Fun fact **I love memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
