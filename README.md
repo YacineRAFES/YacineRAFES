@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yacine RAFES</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yacinerafes" alt="yacinerafes" /></a> </p>
-
 - 🌱 I’m currently learning **Java, JavaEE, Maven, Jenkins, Java OOP, GIT**
 
 - 📫 How to reach me **On my Linkedin**
