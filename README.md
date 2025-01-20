@@ -18,4 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yacinerafes&show_icons=true&locale=en" alt="yacinerafes" /></p>
 
 <h3 align="left">Mes portfolios en ligne :</h3>
-<a href="https://yacinerafes.github.io/MeteoApp/" target="blank">
+<a href="https://yacinerafes.github.io/MeteoApp/">MeteoApp</a>
