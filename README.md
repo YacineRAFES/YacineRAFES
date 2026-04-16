@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yacine RAFES</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🌱 I’m currently learning **Java, JavaEE, Jenkins, GIT, Symfony**
+- 🌱 I’m currently learning **Java, JavaEE, Jenkins, GIT, Symfony, Python**
 
 - 📫 How to reach me **On my Linkedin**
 
